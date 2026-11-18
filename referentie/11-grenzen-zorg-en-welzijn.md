@@ -23,7 +23,7 @@ Geldt voor elke aanbieder, ook zonder beroepsvereniging (reclamecode.nl/nrc).
 - **Artikel 15**: de bewijslast ligt bij de adverteerder. Wie "90% van mijn cliënten slaapt na drie sessies beter" schrijft, moet dat kunnen laten zien.
 - **Bijlage 1, punt 16**: beweren dat iets ziekten of gebreken kan genezen zonder dat dat zo is, is altijd misleidend.
 - Een aparte "Reclamecode voor de Zorg" bestaat niet; gidsen die daarnaar verwijzen hebben het mis.
-- **Doorgestreepte prijzen**: een "van 125 voor 95" alleen als de hogere prijs kort geleden echt gold. Een prijs die nooit gevraagd is, is misleidend.
+- **Doorgestreepte prijzen**: een "van 125 voor 95" mag in de EU alleen als de hogere prijs de laagste prijs van de afgelopen dertig dagen was.
 
 ## Per beroep
 

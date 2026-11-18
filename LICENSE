@@ -1,0 +1,47 @@
+De Praktijkscan van Jens Kemna
+Copyright 2026 Jens Kemna, Praktijkwerkbank (https://praktijkwerkbank.nl)
+
+Deze map heeft drie licenties, elk voor een eigen deel.
+
+1. DE TEKSTEN: Creative Commons Naamsvermelding 4.0 Internationaal (CC BY 4.0)
+
+Geldt voor SKILL.md, README.md, CHANGELOG.md, SECURITY.md en alles in de map referentie/.
+
+Je mag:
+- Delen: het werk kopiëren, verspreiden en doorgeven via elk medium of bestandsformaat.
+- Bewerken: het werk remixen, veranderen en er afgeleide werken van maken, voor alle doeleinden, ook commercieel.
+
+Onder de volgende voorwaarde:
+- Naamsvermelding: je vermeldt de maker, een link naar de licentie, en of er wijzigingen zijn aangebracht. Je mag dat op elke redelijke manier doen, maar niet zo dat het lijkt alsof de maker jou of je gebruik goedkeurt.
+
+Zo vermeld je de naam, bijvoorbeeld onderaan je document of in je eigen README:
+
+    Gebaseerd op de Praktijkscan van Jens Kemna (Praktijkwerkbank, https://praktijkwerkbank.nl),
+    licentie CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Aangepast door [jouw naam].
+
+Laat de laatste zin weg als je niets hebt veranderd.
+
+Geen aanvullende beperkingen: je mag geen juridische voorwaarden of technische maatregelen toepassen die anderen verbieden wat deze licentie toestaat.
+
+De volledige, officiële licentietekst: https://creativecommons.org/licenses/by/4.0/legalcode
+Nederlandse vertaling van de licentietekst: https://creativecommons.org/licenses/by/4.0/legalcode.nl
+Samenvatting: https://creativecommons.org/licenses/by/4.0/deed.nl
+
+2. DE SCRIPTS: MIT
+
+Geldt voor de programmacode in de map scripts/ (maak_pdf.py, schermafbeelding.py, zoekwoorden.py).
+Creative Commons raadt zijn licenties af voor software; daarom valt de code onder de MIT-licentie.
+De volledige tekst staat in LICENSE-MIT.
+
+3. DE LETTERTYPES: SIL Open Font License 1.1
+
+Geldt voor de lettertypebestanden in assets/ (Archivo en Instrument Sans). Die zijn niet van Jens Kemna.
+De copyrightregels en de volledige licentietekst staan in assets/OFL.txt.
+
+NIET ONDER DEZE LICENTIES: NAAM EN LOGO
+
+De namen "Praktijkwerkbank" en "Jens Kemna" en het merkteken (assets/merk.svg, ook als tekening in scripts/maak_pdf.py) zijn van Jens Kemna. Ze mogen blijven staan waar ze staan: in de skill, in de naamsvermelding en in rapporten die je met de skill maakt. Je mag ze niet gebruiken als naam of logo van je eigen product, dienst of bedrijf, en niet zo dat het lijkt alsof Praktijkwerkbank jouw werk heeft gemaakt of goedkeurt. Maak je een eigen versie, geef die dan een eigen naam en een eigen merkteken, en vermeld de bron zoals hierboven.
+
+BRONNEN
+
+Dit werk is geïnspireerd op het openbaar bekende gedachtegoed van Alex Hormozi over aanbod en waarde, in eigen woorden uitgewerkt voor praktijken in Nederland en België. Het is geen product van Alex Hormozi of Acquisition.com en bevat geen tekst uit zijn boeken.

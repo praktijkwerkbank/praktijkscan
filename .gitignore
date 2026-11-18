@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Uitvoer van scans: hoort niet in de repository
+*.pdf
+*.png
+*.jpg
+*.jpeg
+uitslag*.md
+scan*.md
+zoekwoorden*.md
+zoekwoorden*.json
+top10*.txt
+planner*.csv
+praktijkscan*.html
+
+# Eigen afzender (naam, foto, mailadres, pitch): blijft lokaal
+afzender.json
+assets/afzender.*
+assets/pitch.*
+assets/prive/
+prive-*.md
+
+# Gebouwde zip
+*.zip

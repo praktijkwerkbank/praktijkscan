@@ -1,5 +1,10 @@
 # Wijzigingen
 
+## 3.5.1 (2026-11-18)
+
+- De regel over doorgestreepte prijzen is algemener: alleen als de hogere prijs kort geleden echt gold. De eerdere tekst noemde een termijn die voor diensten niet vaststaat.
+- De zin over verwijsvergoedingen stelt geen rechtsregel meer.
+
 ## 3.5 (2026-11-18)
 
 Eerste openbare versie op GitHub.
